@@ -2,7 +2,7 @@
 
  Final-Year Computer Science & Engineering Student
 
- Aspiring Software Engineer,passionate about building innovative software solutions and web applications.
+ Aspiring Software Engineer, passionate about building innovative software solutions and web applications.
 
 Skills: HTML • CSS • JavaScript • Python • SQL • Git • GitHub
 
