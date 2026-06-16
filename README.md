@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Dukkipati Prudhvi Tej 
 
-<!--
-**D-prudhvi/D-prudhvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Final-Year Computer Science & Engineering Student
 
-Here are some ideas to get you started:
+ Aspiring Software Engineer passionate about building innovative software solutions and web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: HTML • CSS • JavaScript • Python • SQL • Git • GitHub
+
+ Interested in Software Engineering, Full Stack Development, and Artificial Intelligence.
+
+ # Connect with Me
+🔗 LinkedIn: www.linkedin.com/in/prudhvi-dukkipati-a706b731b
+📧 Email: dnprudhvitej@gmail
