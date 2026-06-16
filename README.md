@@ -8,7 +8,7 @@ Skills: HTML • CSS • JavaScript • Python • SQL • Git • GitHub
 
  Interested in Software Engineering, Full Stack Development, and Artificial Intelligence.
 
-Connect with Me:
+Connect with Me :
   
 🔗 LinkedIn: www.linkedin.com/in/prudhvi-dukkipati-a706b731b
 
