@@ -1,4 +1,4 @@
-# Hi, I'm Dukkipati Prudhvi Tej 
+# Hi, I'm Dukkipati Prudhvi 
 
  Final-Year Computer Science & Engineering Student
 
